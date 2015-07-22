@@ -1,3 +1,2 @@
-import file from './file';
-import another from './another';
-export {file, another};
+export file from './file';
+export another from './another';
